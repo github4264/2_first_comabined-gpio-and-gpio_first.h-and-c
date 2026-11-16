@@ -12,7 +12,7 @@ int main(void)
 
     GPIO_First_TurnOFF();
     printf(" file");
-    print(file)
+    printf("file");
 
     return 0;
 }
