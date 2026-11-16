@@ -13,6 +13,7 @@ int main(void)
     GPIO_First_TurnOFF();
     printf(" file");
     printf("file");
+int prasanna=90;
 
     return 0;
 }
