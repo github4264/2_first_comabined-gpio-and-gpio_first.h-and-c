@@ -11,6 +11,8 @@ int main(void)
     GPIO_First_TurnON();
 
     GPIO_First_TurnOFF();
+    printf(" file");
+    print(file)
 
     return 0;
 }
