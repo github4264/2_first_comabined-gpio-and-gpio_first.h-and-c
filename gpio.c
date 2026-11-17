@@ -5,7 +5,11 @@
 
 int main(void)
 {
-    printf("GPIO Program Started\n");
+    print
+        
+    
+    
+    f("GPIO Program Started\n");
 
     GPIO_First_Init();
     GPIO_First_TurnON();
