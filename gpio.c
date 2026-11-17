@@ -9,7 +9,8 @@ printf("prasanna");
 printf("prem kumar ");
     printf("GPIO Program Completed\n");
     int data_1=70;
-    int sum=data@ + 70
+    int sum=data@ + 70;
+    print(bharath)
 
     return 0;
 }
