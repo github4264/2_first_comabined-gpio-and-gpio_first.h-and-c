@@ -8,7 +8,7 @@ int main(void)
     GPIO_First_Init();
     GPIO_First_TurnON();
     GPIO_First_TurnOFF();
-
+pintf("prasanna")
     printf("GPIO Program Completed\n");
 
     return 0;
