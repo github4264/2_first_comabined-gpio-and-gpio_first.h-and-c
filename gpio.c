@@ -5,16 +5,12 @@
 
 int main(void)
 {
-    print
-        
-    
-    
-    f("GPIO Program Started\n");
+    printf("GPIO Program Started\n");
 
     GPIO_First_Init();
     GPIO_First_TurnON();
     GPIO_First_TurnOFF();
-pintf("prasanna")
+pintf("prasanna");
     printf("GPIO Program Completed\n");
 
     return 0;
